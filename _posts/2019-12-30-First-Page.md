@@ -3,7 +3,7 @@ layout: post
 title: First Page!
 ---
 
-Learn Markup.
+Personal Blog
 
 ![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)
 
